@@ -1,0 +1,11 @@
+{
+  "name": "oneko",
+  "description": "Katze auf dem Bildschirm",
+  "authors": [
+    {
+      "name": "Community"
+    }
+  ],
+  "main": "index.js",
+  "hash": "6fbcd33f8576a38351b2c806593341708a81e6faea19fd25af797b09542756b3"
+}
